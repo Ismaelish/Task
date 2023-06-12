@@ -1,0 +1,128 @@
+﻿@using MaximaMachineriesInc;
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>@ViewData["Title"] - Maxima Machinereis Inc</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Form_Request.styles.css" asp-append-version="true" />
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+</head>
+<style>
+    body {
+        transition: margin-left 0.5s;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .topnav {
+        transition: margin-left 0.5s;
+        overflow: hidden;
+        background-color: darkblue;
+        height: 100%;
+        width: 100%;
+        border-top: solid 1px black;
+        border-bottom: solid 1px darkorange;    
+        position: relative
+ 
+    }
+
+        .topnav a {
+            transition: margin-left 0.5s;
+            margin: auto;
+            float: left;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 20px;
+            background-color: darkblue;
+            font-family:Arial; 
+            font-weight: bold;
+        }
+      
+
+            .topnav a.hover
+            {
+                color: orange;
+               
+            }
+
+        .topnav b {
+            position: relative;
+            overflow: hidden;
+            float: right;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 20px;
+            background-color: darkblue;
+            font-family: Arial;
+            border: none;
+        }
+
+        .topnav b.hover {
+            color: orange;
+        }
+    
+
+    .footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 2.5rem;
+        background-color: black;
+        text-align: center;
+        color: darkorange;    
+    }
+</style>
+<body>
+
+    <div id="mytopnav"class="topnav">
+        <a class="menu-btn"><i class="fas fa-bars"></i></a>
+      
+        @*<b asp-area="Home" asp-controller="Home" asp-action="Login">Logout</b>*@
+
+        <b id="menu" href="#profile ">@GlobalVar.UserName</b>
+        
+        <b><input list="brow" class="form-control" placeholder="Search.." style="width:100%"> </b>
+        
+    </div>
+    <br />
+
+ 
+    <div class="footer">
+        <p>Copyright © 2023 Maxima Machineries INC. . All Rights Reserved.</p>
+    </div>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @await Component.InvokeAsync("Category")
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required:false)
+    <script>
+        //function openNav() {
+        //    document.getElementById("menu").style.width = "250px";
+        //    document.getElementById("main01").style.marginLeft = "200px";
+        //    document.getElementById("topnava").style.marginLeft = "200px";
+        //}
+        //function closeNav() {
+        //    document.getElementById("menu").style.width = "0";
+        //    document.getElementById("main01").style.marginLeft = "0";
+        //    document.getElementById("topnava").style.marginLeft = "0";
+
+        //}
+    </script>
+</body>
+</html>
