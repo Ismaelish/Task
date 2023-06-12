@@ -1,0 +1,100 @@
+﻿main {
+    transition: margin-left 0.5s;
+    
+    overflow: hidden;
+}
+
+body {
+    font-size: 12px;
+    background-color: white;
+}
+
+legend {
+    background-color: darkorange;
+    text-align: center;
+    color: black;
+    border-bottom: 2px solid;
+    border-color: black;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+form {
+    border-color: black;
+    border: 3px solid black;
+    background-color: whitesmoke;
+    margin-bottom: 100px;
+    border-radius: 5px;
+    height: 30%;
+    width: 100%;
+    transition: margin-left 0.5s;
+    
+}
+
+input {
+    border: 3px solid black;
+}
+
+label {
+    margin-left: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+button {
+    margin-left: 10px;
+    margin-top: 5px;
+    color: orange;
+    font-weight: bold;
+}
+
+select {
+    width: 300px;
+}
+
+input {
+    margin-left: 10px;
+    border: 2px groove #ccc;
+    border-color: black;
+    border-style: groove;
+}
+
+.required:before {
+    content: '*';
+    color: red;
+    font-size: 20px
+}
+
+.modal {
+    position: fixed;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    padding-top: 60px;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin: auto;
+    border: 2px solid black;
+    width: 80%;
+    height: 90%;
+}
+
+.table {
+    width: 85%;
+    margin-left: 40px;
+    border: solid 1px;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+
+.theader {
+    color: white;
+}

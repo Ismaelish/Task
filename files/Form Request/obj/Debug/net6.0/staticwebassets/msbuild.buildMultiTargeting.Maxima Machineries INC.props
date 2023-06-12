@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Maxima Machineries INC.props" />
+</Project>

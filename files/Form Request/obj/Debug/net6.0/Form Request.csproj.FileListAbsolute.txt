@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Form Request.staticwebassets.runtime.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Form Request.exe
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Form Request.deps.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Form Request.runtimeconfig.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Form Request.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Form Request.pdb
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.AssemblyInfo.cs
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.Form Request.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.build.Form Request.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Form Request.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Form Request.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\scopedcss\bundle\Form Request.styles.css
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\scopedcss\projectbundle\Form Request.bundle.scp.css
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\refint\Form Request.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.pdb
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Form Request.genruntimeconfig.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\ref\Form Request.dll

@@ -1,0 +1,214 @@
+﻿@{
+	ViewData["Title"] = "Login";
+}
+@model MaximaMachineriesInc.Models.User
+
+<!doctype html>
+<html lang="en">
+<head>
+	<title>MAXIMA MACHINERIES INC. </title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="css/style.css">
+
+	<style>
+
+		body {
+			max-width: 100%;
+			font-family: arial;
+			font-size: 20px;
+			line-height: 1.8;
+			font-weight: normal;
+			background: #f8f9fd;
+			color: black;
+			overflow-x:hidden;
+			overflow-y: auto;
+			
+
+		}
+
+		.ftco-section {
+			padding: 7em 0;
+		}
+
+		.ftco-no-pt {
+			padding-top: 0;
+		}
+
+		.ftco-no-pb {
+			padding-bottom: 0;
+		}
+
+		.heading-section {
+			font-size: 28px;
+			color: black;
+		}
+
+		.wrap {
+			width: 100%;
+			background: white;
+			border-radius: 5px;
+			-webkit-box-shadow: 0px 10px 34px -15px rgba(0,0,0,0.24);
+			-moz-box-shadow: 0px 10px 34px -15px rgba(0,0,0,0.24);
+			box-shadow: 0px 10px 34px -15px rgba(0,0,0,0.24);
+		}
+
+		.login-wrap {
+			display: block;
+			margin:auto;
+			overflow:hidden;
+			font-weight: 300;
+			position: relative;
+		}
+
+
+		.form-group {
+			position: relative;
+			z-index: 0;
+			margin-bottom: 20px !important;
+		}
+
+		.form-control {
+			height: 48px;
+			background: white;
+			color: black;
+			font-size: 16px;
+			border-radius: 5px;
+			box-shadow: none;
+			border: 1px solid rgba(0,0,0,.1);
+			margin-bottom:-5px;
+		}
+
+		.field-icon {
+			position: absolute;
+			top: 50%;
+			right: 15px;
+			transform: translateY(-50%);
+			color: rgba(0,0,0,.3);
+		}
+
+		.form-control-placeholder {
+			position: absolute;
+			top: 2px;
+			padding: 7px 0 0 15px;
+			transition: all 400ms;
+			opacity: .6;
+		}
+
+
+		.checkbox-wrap {
+			display: block;
+			position: relative;
+			padding-left: 30px;
+			margin-bottom: 12px;
+			cursor: pointer;
+			font-size: 16px;
+			font-weight: 500;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+		}
+
+			/* Hide the browser's default checkbox */
+			.checkbox-wrap input {
+				position: absolute;
+				opacity: 0;
+				cursor: pointer;
+				height: 0;
+				width: 0;
+			}
+
+		/* Create a custom checkbox */
+		.checkmark {
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
+
+
+			/* Create the checkmark/indicator (hidden when not checked) */
+			.checkmark:after {
+				content: "\f0c8";
+				font-family: "FontAwesome";
+				position: absolute;
+				color: rgba(0,0,0,.1);
+				font-size: 20px;
+				margin-top: -4px;
+			}
+
+		img {
+			display: block;
+			position: relative;
+			height: 150px;
+			width: 450px;
+			margin:auto;
+			overflow:hidden;	
+		}
+	</style>
+
+</head>
+<body>
+	<section class="form-center">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="img-center">
+					<img src="~/images/maximalogo.png" />
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-md-7 col-lg-5">
+					<div class="wrap">
+						<div class="login-wrap p-4 p-md-5">
+							<div class="d-flex">
+								<div class="w-100">
+									<h3 class="mb-4">Sign In</h3>
+								</div>
+							</div>
+							<form method="post" class="signin-form" asp-controller="Login" asp-action="Login">
+								<div class="form-group mt-3">
+									<label class="label" for="SystemUserName">Username </label>
+									<input name="SystemUserName" id ="SystemUserName" type="text" class="form-control" required>
+
+								</div>
+								<div class="form-group">
+									<label class="label" for="Password">Password</label>
+									<input name="PassCode" id="PassCode" type="password" class="form-control" required>
+
+								</div>
+								<div class="form-group">
+									<button type="submit" class="form-control btn btn-primary rounded submit px-3">Sign In</button>
+								</div>
+								<span style="color:red; font-weight:bold; text-align:center;  ">@ViewBag.ErrorMessage</span>
+								<div class="w-50 text-md-right">
+									<a asp-controller="Login" asp-action="Forgotpassword">Version 1.0</a>
+								</div>
+							</form>
+						</div>
+						
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/popper.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
+
+	<script>
+		
+	</script>
+</body>
+</html>
+
+
+
+

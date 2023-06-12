@@ -1,0 +1,583 @@
+﻿@using MaximaMachineriesInc;
+<<<<<<<< Updated upstream:Form Request/Views/RFS/EntryForm.cshtml
+@model IEnumerable<MaximaMachineriesInc.Models.ModelMix>
+========
+@model MaximaMachineriesInc.Models.RFS
+>>>>>>>> Stashed changes:Form Request/Views/RFS/Create.cshtml
+@{
+    Layout = "_Layout";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Request Entry Form</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/EntryForm.css">
+</head>
+
+<body>
+    <main id="main01" class="reimbursement_form">
+        <h1>Reimbursement Form</h1>
+        <form method="post" asp-controller="RFS" asp-action="EntryForm">
+            <div>
+              <legend> REQUEST ENTRY MAIN FORM </legend>
+              <br />
+                <b><label class="col-md-3 control label" style="font-size:larger">REIMBURSEMENT DETAILS</label></b>
+<<<<<<<< Updated upstream:Form Request/Views/RFS/EntryForm.cshtml
+
+                <div class="modal">
+========
+                <div class="row">
+>>>>>>>> Stashed changes:Form Request/Views/RFS/Create.cshtml
+                    <label class="col-md-3 required">SystemUser ID:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                            <input id="SystemUserID" name="SystemUserID" class="form-control" type="Text" required="required" value=@GlobalVar.UserID>
+                        </div>
+                    </div>
+                </div>
+<<<<<<<< Updated upstream:Form Request/Views/RFS/EntryForm.cshtml
+                <div class="row">
+                    <label class="col-md-3 required">Post Date:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                            <input id="PostDate" name="PostDate" placeholder="Encoded Date" class="form-control" type="datetime-local" value=@DateTime.Now required="required">
+                        </div>
+                    </div>
+                </div>
+========
+          
+>>>>>>>> Stashed changes:Form Request/Views/RFS/Create.cshtml
+                <div class="row">
+                    <label class="col-md-3 required">Encoded Date:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                            <div class="input-group">
+                            <input id="ReferenceDate" name="ReferenceDate" placeholder="Encoded Date" class="form-control" type="text" value=@DateTime.Now disabled>
+                           </div>
+                    </div>
+                </div>
+
+               
+
+                <div class="row">
+                    <label class="col-md-3 required">Reference No:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                            <input id="Reference" name="Reference" placeholder="Reference" class="form-control" type="number">
+                        </div>
+                    </div>
+                </div>
+                
+
+                <div class="row">
+                    <label class="col-md-3 required">Requested By:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                            <input list="EmpNo" class="form-control" type="number" name="s" id="SystemUserID" placeholder="Select Option" required>
+                            <datalist id="SystemUserName" runat="server">
+
+                            </datalist>                  
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <label class="col-md-3 required">Department</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                        <input list="Dept" class="form-control" name="Dept" id="Dept" placeholder="Select Option" required>
+                            <datalist id="Dept" runat="server">
+                                @if (Model != null && Model.Any())
+                                {
+                                    @foreach (var List in Model)
+                                    {
+                                        <option>@Html.DisplayFor(Employee => List.Dept)</option>
+                                    }
+                                }
+
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+              
+                <div class="row">
+                    <label class="col-md-3 required">Section:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                        <input list="Section" id="Section" name="Section" class="form-control" placeholder="Select Option" required>
+                            <datalist id="Section">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <label class="col-md-3 required">Branch:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                        <input list="Branch" id="Branch" name="Branch" class="form-control" placeholder="Select Option" required>
+                            <datalist id="Branch">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <label class="col-md-3 required">Deposit Money to the Account of:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                        <input list="Deposit" id="Deposit" type="number" name="Deposit" class="form-control" placeholder="Select Option" required>
+                            <datalist id="Deposit">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                    <br />
+                    <label style="color:red; font-style:italic; text-decoration:underline;">Note! If Name is not found in the list please coordinate to Finance Treasury for Account Registration.</label>
+                </div>
+
+                <br />
+                <div class="row">
+                    <label class="col-md-3 required">Account No.:</label>
+                    <div class="col-md-3 inputGroupContainer">
+                        <div class="input-group">
+                            <input name="AccountNo" type="number" placeholder="AccountNo" class="form-control" required>
+                            <input type="hidden" id="AccountNo" name="AccountNo" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-2">
+                        <button type="button" id="encode_expense"class="btn btn-primary" onclick=" document.getElementById('id02').style.display='block'">Encode Expense</button>
+                    </div>
+                </div>
+
+           
+            <br />
+                <table class="table table-striped table-primary table-bordered">
+                    <thead style="border: solid 1px">
+                        <tr>
+                            <th scope="col">Receipt Date</th>
+                            <th scope="col">Receipt Reference</th>
+                            <th scope="col">Supplier Name</th>
+                            <th scope="col">Amount</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row"> </th>
+                            <td> </td>
+                            <td> </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <th scope="row"> </th>
+                            <td> </td>
+                            <td> </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <th scope="row"> </th>
+                            <td> </td>
+                            <td> </td>
+                            <td> </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            <br />
+            <div class="row">
+                <label class="col-md-1 required">Attachments:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <input id="file" class="form-control" accept=".doc,.docx,.xml,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document" name="fileToUpload" type="file"/>
+                    </div>
+                </div>
+            </div>
+
+            <br />
+                <table class="table table-striped table-primary table-bordered" style="width:35%; margin-left:40px;">
+                    <thead>
+                        <tr>
+                            <th scope="col">Remove</th>
+                            <th scope="col">Download</th>
+                            <th scope="col">Attachment Name</th>  
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row"> </th>
+                            <td> </td>
+                            <td> </td>
+                            
+                        </tr>
+                        <tr>
+                            <th scope="row"> </th>
+                            <td> </td>
+                            <td> </td>
+                          
+                        </tr>
+                        <tr>
+                            <th scope="row"> </th>
+                            <td> </td>
+                            <td> </td>  
+                        </tr>
+                    </tbody>
+                </table>
+            <br />
+            <div class="row">
+                <div>
+                    <label class="required">
+                        <input id="checkbox" type="radio"  />
+                        I hereby certify that the above information is, complete, true and correct any false information is subject for cancelation or request and issuance of NDA.
+                    </label>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <label class="col-md-3 required">Where the receipt will be coming from?</label>
+                <div class="col-md-3 inputGroupContainer">
+                    <div class="input-group">
+                    <input list="Receipt" class="form-control" id="Receipt" name="Receipt" placeholder="Select Option" required>
+                        <datalist id="Receipt">
+                            <option value="Internet Explorer"> </option>
+                            <option value="Firefox"> </option>
+                            <option value="Chrome"></option>
+                            <option value="Opera"></option>
+                            <option value="Safari"></option>
+                        </datalist>
+                    </div>
+                </div>
+            </div>
+
+            <br />
+            <!-- Button -->
+              <div class="row">
+                <div class="col-md-4">
+                        <button type="submit" value="submit" class="btn btn-primary">Submit</button>
+                </div>
+                </div>
+            </div>
+            <br />
+        </form>
+<br />
+           <!-- SECOND FORM -->
+    <div class="modal" id="id02">
+       
+        <form 8d="form02" class ="modal-content animate" action="/action_page.php" method="post">
+            <fieldset>
+                <b> <legend> REQUEST ENTRY SUB FORM </legend></b>
+
+                <b><label class="col-md-3 control-label">REIMBURSEMENT DETAILS</label></b>
+                <br />
+
+                <div class="row">
+                    <label class="col-md-2 required">Receipt Date:</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">
+                            <input id="receipt_date" name="Receipt Date" placeholder="Receipt Date" class="form-control" type="text" required>
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">Account Charging:</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">Receipt Reference:</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">
+                            <input name="Reference No" placeholder="Receipt Reference" class="form-control" type="text" required>
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">Branch:</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">Supplier Name:</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">Department:</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">Tin No.</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                           
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">Site:</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                  
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">Receipt Amount</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                        
+                            <input name="Reference No" placeholder="Receipt Amount" class="form-control" type="text" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">Receipt Validity From</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                          
+                            <input name="Reference No" placeholder="From" class="form-control" type="date" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">To</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                        
+                            <input name="Reference No" placeholder="To" class="form-control" type="date" required>
+                        </div>
+                    </div>
+                </div>
+
+                <br />
+
+                <div class="row">
+                    <label class="col-md-2 required">Category</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                        
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">BTR Reference</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                         
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">SJO Reference</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                          
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"></option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 control-label">Travel Period</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                          
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">Machine Model</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                         
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">From</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                         
+                            <input name="Reference No" placeholder="From" class="form-control" type="date" required>
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">Machine Serial No.</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                          
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">To</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                          
+                            <input name="Reference No" placeholder="To" class="form-control" type="date" required>
+                        </div>
+                    </div>
+                    <label class="col-md-2 required">Customer Name</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                         
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">Destination</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                           
+                            <input list="brow" class="form-select" placeholder="Select Option" required>
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <label class="col-md-2 required">Category</label>
+                    <div class="col-md-2 inputGroupContainer">
+                        <div class="input-group">                       
+                            <input list="brow" class="form-select" placeholder="Select Option" required ="required">
+                            <datalist id="brow">
+                                <option value="Internet Explorer"> </option>
+                                <option value="Firefox"> </option>
+                                <option value="Chrome"></option>
+                                <option value="Opera"></option>
+                                <option value="Safari"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div class="btn-group">
+                    <div class="col-md-7">
+                        <button id="id03" type="button" value="submit" class="btn btn-primary" onclick="document.getElementById('id02').style.display='none'">Submit</button>
+                    </div>
+                    <div class="col-md-7">
+                        <button id="cancel" type="button" class="btn btn-primary" onclick="document.getElementById('id02').style.display='none'"> Cancel</button>
+                    </div>
+                </div>
+        </form>
+        </div>
+    </main>
+    <script>
+        document.getElementById("ReferenceDate").innerHTML = Date();
+    </script>
+ </body>
+</html>

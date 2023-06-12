@@ -1,0 +1,400 @@
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Maxima Machineries INC.staticwebassets.runtime.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Maxima Machineries INC.exe
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Maxima Machineries INC.deps.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Maxima Machineries INC.runtimeconfig.json
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Maxima Machineries INC.pdb
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfo.cs
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.Maxima Machineries INC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.build.Maxima Machineries INC.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Maxima Machineries INC.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Maxima Machineries INC.props
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\scopedcss\bundle\Maxima Machineries INC.styles.css
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\scopedcss\projectbundle\Maxima Machineries INC.bundle.scp.css
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\refint\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.pdb
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.genruntimeconfig.cache
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\ref\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CopyComplete
+C:\Users\User\source\repos\Reimbursement\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Loginlayout.cshtml.rz.scp.css
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Reimbursement\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.staticwebassets.runtime.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.exe
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.deps.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.runtimeconfig.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.pdb
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfo.cs
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.Maxima Machineries INC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.build.Maxima Machineries INC.props
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Maxima Machineries INC.props
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Maxima Machineries INC.props
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Loginlayout.cshtml.rz.scp.css
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\bundle\Maxima Machineries INC.styles.css
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\projectbundle\Maxima Machineries INC.bundle.scp.css
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CopyComplete
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\refint\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.pdb
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.genruntimeconfig.cache
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\ref\Maxima Machineries INC.dll
+C:\Users\User\source\repos\Reimbursement\Latest repo\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\Layout.cshtml.rz.scp.css
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\appsettings.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.staticwebassets.runtime.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.exe
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.deps.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.runtimeconfig.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.pdb
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.AssemblyReference.cache
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfoInputs.cache
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfo.cs
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CoreCompileInputs.cache
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cache
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cs
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.Maxima Machineries INC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.build.Maxima Machineries INC.props
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Maxima Machineries INC.props
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Maxima Machineries INC.props
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Loginlayout.cshtml.rz.scp.css
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\bundle\Maxima Machineries INC.styles.css
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\projectbundle\Maxima Machineries INC.bundle.scp.css
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CopyComplete
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\refint\Maxima Machineries INC.dll
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.pdb
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.genruntimeconfig.cache
+C:\Users\ev_thelmo\Source\Repos\ERPNew\Form Request\obj\Debug\net6.0\ref\Maxima Machineries INC.dll
+C:\Users\ev_thelmo\source\repos\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\appsettings.Development.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\appsettings.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.staticwebassets.runtime.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.exe
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.deps.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.runtimeconfig.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Maxima Machineries INC.pdb
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Azure.Core.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Azure.Identity.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.AssemblyReference.cache
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfoInputs.cache
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfo.cs
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CoreCompileInputs.cache
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.MvcApplicationPartsAssemblyInfo.cache
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cache
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cs
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.Maxima Machineries INC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.build.Maxima Machineries INC.props
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Maxima Machineries INC.props
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Maxima Machineries INC.props
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.build.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\staticwebassets.development.json
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Loginlayout.cshtml.rz.scp.css
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\bundle\Maxima Machineries INC.styles.css
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\scopedcss\projectbundle\Maxima Machineries INC.bundle.scp.css
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CopyComplete
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\refint\Maxima Machineries INC.dll
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.pdb
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\Maxima Machineries INC.genruntimeconfig.cache
+D:\MAXIMAWEBAPP\ERPNew\Form Request\obj\Debug\net6.0\ref\Maxima Machineries INC.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\appsettings.Development.json
+D:\APP\maxima\Form Request\bin\Debug\net6.0\appsettings.json
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Maxima Machineries INC.staticwebassets.runtime.json
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Maxima Machineries INC.exe
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Maxima Machineries INC.deps.json
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Maxima Machineries INC.runtimeconfig.json
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Maxima Machineries INC.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Maxima Machineries INC.pdb
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Azure.Core.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Azure.Identity.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.Memory.Data.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\APP\maxima\Form Request\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.AssemblyReference.cache
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.GeneratedMSBuildEditorConfig.editorconfig
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfoInputs.cache
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.AssemblyInfo.cs
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CoreCompileInputs.cache
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.MvcApplicationPartsAssemblyInfo.cache
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cache
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.RazorAssemblyInfo.cs
+D:\APP\maxima\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.Maxima Machineries INC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APP\maxima\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.build.Maxima Machineries INC.props
+D:\APP\maxima\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Maxima Machineries INC.props
+D:\APP\maxima\Form Request\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Maxima Machineries INC.props
+D:\APP\maxima\Form Request\obj\Debug\net6.0\staticwebassets.pack.json
+D:\APP\maxima\Form Request\obj\Debug\net6.0\staticwebassets.build.json
+D:\APP\maxima\Form Request\obj\Debug\net6.0\staticwebassets.development.json
+D:\APP\maxima\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\APP\maxima\Form Request\obj\Debug\net6.0\scopedcss\Views\Shared\_Loginlayout.cshtml.rz.scp.css
+D:\APP\maxima\Form Request\obj\Debug\net6.0\scopedcss\bundle\Maxima Machineries INC.styles.css
+D:\APP\maxima\Form Request\obj\Debug\net6.0\scopedcss\projectbundle\Maxima Machineries INC.bundle.scp.css
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.csproj.CopyComplete
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.dll
+D:\APP\maxima\Form Request\obj\Debug\net6.0\refint\Maxima Machineries INC.dll
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.pdb
+D:\APP\maxima\Form Request\obj\Debug\net6.0\Maxima Machineries INC.genruntimeconfig.cache
+D:\APP\maxima\Form Request\obj\Debug\net6.0\ref\Maxima Machineries INC.dll

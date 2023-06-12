@@ -1,0 +1,276 @@
+﻿@using MaximaMachineriesInc;
+@model List<SideMenuBar.Models.Shared>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<<<<<<< Updated upstream
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sidebar menu With Sub-menus | Using HTML, CSS & JQuery</title>
+    <link rel="stylesheet" href="~/css/SideMenu.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" charset="utf-8"></script>
+=======
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Form_Request.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+    <style>
+        .sidenav {
+            height: 100%;
+            position: fixed;
+            z-index: 1;
+            padding: 0;
+            top: 0;
+            left: 0;
+            transition: margin-left 0.5s;
+            overflow: hidden;
+        }
+
+
+
+        .main-menu {
+            background: white;
+            border-top: 1px solid black;
+            border-right: 2px solid black;
+            border-bottom: 1px solid black;
+            position: absolute;
+            height: 100%;
+            overflow: hidden;
+            transition: 0.5s;
+            z-index: 1;
+            padding-top: 60px;
+            margin: auto;
+        }
+
+            .main-menu li {
+                list-style-type: none;
+                position: relative;
+                width: 100%;
+                float: left;
+            }
+
+                .main-menu li > a {
+                    position: relative;
+                    color: black;
+                    font-family: Helvetica;
+                    font-weight: bolder;
+                    font-size: 13px;
+                    text-decoration: none;
+                    top: 40px;
+                    width: 300px;
+                    list-style-type: none;
+                    padding: 15px;
+                    border-bottom: 2px solid black;
+                    text-align: left;
+                    margin-left: -35px;
+                    float: left;
+                }
+
+
+
+
+                .main-menu li ul {
+                    width: 100%;
+                    padding: 0;
+                }
+
+
+
+
+        .no-touch .scrollable.hover {
+            overflow-y: hidden;
+        }
+
+            .no-touch .scrollable.hover:hover {
+                overflow-y: auto;
+                overflow: hidden;
+            }
+
+        li a:hover,
+        li a:focus {
+            text-decoration: none;
+            cursor: pointer;
+            transform: scale(1);
+        }
+
+        nav {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+
+
+
+            .main-menu li:hover > a,
+            nav.main-menu li.active > a,
+            .dropdown-menu > li > a:hover,
+            .dropdown-menu > li > a:focus,
+            .dropdown-menu > .active > a,
+            .dropdown-menu > .active > a:hover,
+            .dropdown-menu > .active > a:focus,
+            .no-touch .dashboard-page nav.dashboard-menu ul li:hover a,
+            .dashboard-page nav.dashboard-menu ul li.active a {
+                color: orange;
+                background-color: darkblue;
+                cursor: pointer;
+
+
+            }
+
+        .area {
+            top: 0;
+            z-index: 1;
+            height: 100%;
+        }
+
+        img {
+            width: 230px;
+            height: 100px;
+            position: absolute;
+            border-bottom: 2px solid orange;
+            top: 0;
+            border-top: 2px solid black;
+        }
+
+    </style>
+>>>>>>> Stashed changes
+</head>
+<body>
+
+        
+    <div class="side-bar">
+        <div class="close-btn">
+            <i class="fas fa-times"></i>
+        </div>
+        <div class="menu">
+
+<<<<<<< Updated upstream
+=======
+                    <li onclick="showDropDown(this)" class="filter-button">
+>>>>>>> Stashed changes
+
+            @foreach (var Side in Model.GroupBy(s => s.Menu).Select(g => g.First()))
+            {
+                <div class="item">
+                    <a class="sub-btn"><i class="fas fa-table"></i>@Side.Menu<i class="fas fa-angle-right dropdown"></i></a>
+                    <div class="sub-menu">
+                        @foreach (var SubSide in Model.GroupBy(s => new { s.SubMenu, s.Menu }).Select(g => g.First()))
+
+                        {
+                            @if (Side.Menu == SubSide.Menu)
+                            {
+                                var x = Model.Where(i => i.Menu == Side.Menu && i.SubMenu == SubSide.SubMenu);
+                                <a href="#" class="sub-btn-sub"><i class="fas fa-table"></i>@SubSide.SubMenu <i class="fas fa-angle-right dropdown"></i></a>
+                                <div class="sub-sub-menu">
+                                    @foreach (var SubLast in x)
+                                    {
+<<<<<<< Updated upstream
+                                        <a asp-controller="@SubLast.Controller" asp-action="@SubLast.Action" asp-route-Disp="@SubLast.DispName">@SubLast.Category</a>
+=======
+                                        var x = Model.Where(i => i.Menu == Side.Menu && i.SubMenu == SubSide.SubMenu);
+                                        <li onclick="showDropDown(this)" class="filter-button">
+                                            <a class="dropdown-toggle" style="font-weight:bold;text-indent:12px">@SubSide.SubMenu</a>
+                                            @foreach (var SubLast in x)
+                                            {
+                                                <ul>
+                                                    <li class="filter-button"><a asp-controller="@SubLast.Controller" asp-action="@SubLast.Action" style="text-indent:30px">@SubLast.Category</a></li>
+                                                </ul>
+                                            }
+                                        </li>
+>>>>>>> Stashed changes
+                                    }
+                                </div>
+
+                            }
+                        }
+                    </div>
+
+
+                </div>
+            }
+
+        </div>
+    </div>
+<<<<<<< Updated upstream
+=======
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+
+        //function showDropDown(obj) {
+            
+        //    $(obj).find("li").toggle();
+           
+        //    $(this).addClass("filter-button").siblings().removeClass("filter-button");
+            
+        //}
+
+        //$(".filter-button").click(function () {
+        //    $(this).find("ul:first").toggleClass('show');
+        //    $(this).next("ul:first").toggleClass('show');
+        //    $(this).addClass("active").siblings().removeClass("active");
+        //});
+
+        //$('ul').click(function () {
+
+            
+        //    $(this).addClass("active").siblings().removeClass("active");
+
+        //});
+
+        $('ul li').click(function () {
+            
+            $(this).find('li').closest('ul').toggle(0);
+            $(this).addClass("filter-button").siblings().removeClass("filter-button");
+>>>>>>> Stashed changes
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //jquery for toggle sub menus
+            $('.sub-btn').click(function () {
+                $(this).next('.sub-menu').slideToggle();
+                $(this).find('.dropdown').toggleClass('rotate');
+            });
+
+            $('.sub-btn-sub').click(function () {
+                $(this).next('.sub-sub-menu').slideToggle();
+                $(this).find('.dropdown').toggleClass('rotate');
+            });
+
+
+            //jquery for expand and collapse the sidebar
+            $('.menu-btn').click(function () {
+                $('.side-bar').addClass('active');
+                $('.menu-btn').css("visibility", "hidden");
+            });
+
+            $('.close-btn').click(function () {
+                $('.side-bar').removeClass('active');
+                $('.menu-btn').css("visibility", "visible");
+            });
+        });
+<<<<<<< Updated upstream
+=======
+
+        
+                //$('ul li').ready(function () {
+                //    $('li').on('hover', function () {
+                //        $('li').toggleClass('hover');
+                //    });
+                //});
+
+
+
+>>>>>>> Stashed changes
+
+    </script>
+
+</body>
+</html>
