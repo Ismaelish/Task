@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ev_thelmo\\source\\repos\\maxima\\Form Request\\Maxima Machineries INC.csproj": {}
+    "C:\\Users\\Administrator\\Task\\Form Request\\Maxima Machineries INC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ev_thelmo\\source\\repos\\maxima\\Form Request\\Maxima Machineries INC.csproj": {
+    "C:\\Users\\Administrator\\Task\\Form Request\\Maxima Machineries INC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ev_thelmo\\source\\repos\\maxima\\Form Request\\Maxima Machineries INC.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Task\\Form Request\\Maxima Machineries INC.csproj",
         "projectName": "Maxima Machineries INC",
-        "projectPath": "C:\\Users\\ev_thelmo\\source\\repos\\maxima\\Form Request\\Maxima Machineries INC.csproj",
-        "packagesPath": "C:\\Users\\ev_thelmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ev_thelmo\\source\\repos\\maxima\\Form Request\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Task\\Form Request\\Maxima Machineries INC.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Task\\Form Request\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ev_thelmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -53,6 +48,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
             }
           },
           "imports": [

@@ -61,6 +61,16 @@ namespace MaximaMachineriesInc.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        //VIEW DETAILS
+        public IActionResult TranDetails(int? TranCompNo)
+        {
+            var tranView = _dbcontext.Reimbursement.Find(TranCompNo);
+            if (tranView == null)
+            {
+                return NotFound();
+            }
+            return View(tranView);
+        }
     }
     public class HRController : Controller
     {
@@ -77,5 +87,6 @@ namespace MaximaMachineriesInc.Controllers
         }
 
     }
+    
 
 }

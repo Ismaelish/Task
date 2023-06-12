@@ -1,0 +1,42 @@
+﻿@model ModelMix
+@{
+    ViewData["Title"] = "TranDetails";
+}
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h1 class="text-primary">Transaction Details</h1>
+            <hr />
+        </div>
+        <style>
+            label {
+                display: inline-block;
+                width: 200px;
+                margin-right: 30px;
+                text-align: right;
+            }
+
+            input {
+                display: inline-block;
+                width: 200px;
+            }
+        </style>
+        <div class="mb-3">
+            <label aps-for="Reference"><strong>Reference: </strong> </label>
+            <input asp-for="Reference" disabled><br><br>
+            <label aps-for="Reference"><strong>Reference Date: </strong> </label>
+            <input asp-for="ReferenceDate" disabled><br><br>
+            <label aps-for="Trans"><strong>Employee No: </strong></label>
+            <input asp-for="EmoNo" disabled><br><br>
+            <label aps-for="Section"><strong>First Name: </strong> </label>
+            <input asp-for="FName" disabled><br><br>
+            <label aps-for="Branch"><strong>Last Name: </strong> </label>
+            <input asp-for="LName" disabled><br><br>
+            <label aps-for="Department"><strong>Section: </strong> </label>
+            <input asp-for="Section" disabled><br><br>
+
+            <input type="submit" value="Submit" class="btn btn-primary">
+        </div>
+</form>
+
