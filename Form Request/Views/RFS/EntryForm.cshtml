@@ -38,7 +38,7 @@
                     <label class="col-md-3 required">Post Date:</label>
                     <div class="col-md-3 inputGroupContainer">
                         <div class="input-group">
-                            <input id="PostDate" name="PostDate" placeholder="Encoded Date" class="form-control" type="datetime-local" value=@DateTime.Now required="required">
+                            <input id="PostDate" name="PostDate" placeholder="Encoded Date" class="form-control" type="datetime" value=@DateTime.Now required="required">
                         </div>
                     </div>
                 </div>
@@ -261,11 +261,13 @@
 
             <br />
             <!-- Button -->
+           
               <div class="row">
                 <div class="col-md-4">
-                        <button type="submit" value="submit" class="btn btn-primary" asp-controller="RFS" asp-action="TranDetails">Submit</button>
+                        <button type="submit" value="submit" class="btn btn-primary">Submit</button>
                 </div>
                 </div>
+    
             </div>
             <br />
         </form>

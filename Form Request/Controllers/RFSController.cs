@@ -4,6 +4,7 @@ using MaximaMachineriesInc.DAL;
 using Form_Request.Models;
 using System.Diagnostics;
 using MaximaMachineriesInc;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace MaximaMachineriesInc.Controllers
@@ -49,28 +50,47 @@ namespace MaximaMachineriesInc.Controllers
                 _dbcontext.Reimbursement.Add(Model);
                 _dbcontext.SaveChanges();
 
-            
-                return Redirect("~/RFS/Index");
+                var tranComp = Model.TranCompNo;
+                
+                return Redirect("~/RFS/Details?TranCompNo=" + tranComp);
 
             }
             return View(Model);
 
         }
+        //VIEW DETAILS
+        public async Task<IActionResult> Details(int? TranCompNo)
+        {
+            if (TranCompNo == null || _dbcontext.Reimbursement == null)
+            {
+                return NotFound();
+            }
+
+            var tranDetailsView = await _dbcontext.Reimbursement
+                .FindAsync(TranCompNo);
+            if (tranDetailsView == null)
+            {
+                return NotFound();
+            }
+
+            return View(tranDetailsView);
+        }
+        //GET APPROVER
+
+        public async Task<IActionResult> Approver()
+        {
+            return View();
+        }
+
+
+        //END OF INSERT INTO
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-        //VIEW DETAILS
-        public IActionResult TranDetails(int? TranCompNo)
-        {
-            var tranView = _dbcontext.Reimbursement.Find(TranCompNo);
-            if (tranView == null)
-            {
-                return NotFound();
-            }
-            return View(tranView);
-        }
+        
     }
     public class HRController : Controller
     {

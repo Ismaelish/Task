@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Maxima Machineries Inc.
 build_property.RootNamespace = Maxima Machineries Inc.
-build_property.ProjectDir = C:\Users\Administrator\Task\Form Request\
+build_property.ProjectDir = C:\Users\ir_onita\Documents\GitHub\New\Task\Form Request\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\Task\Form Request
+build_property.MSBuildProjectDirectory = C:\Users\ir_onita\Documents\GitHub\New\Task\Form Request
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Dev/Index.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Dev/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Home/Email.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Home/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Home/Forgotpassword.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Home/Forgotpassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3Jnb3RwYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Home/Home.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Home/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Login/Forgotpassword.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Login/Forgotpassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ290cGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Login/Login.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/RFS/EntryForm.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/RFS/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkZTXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/RFS/EntryForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkZTXEVudHJ5Rm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/RFS/Index.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/RFS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkZTXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/RFS/TranDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkZTXFRyYW5EZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrator/Task/Form Request/Views/RQS/Index.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/RQS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlFTXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Shared/Components/Category/Index.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Shared/Components/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Shared/Error.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/_ViewImports.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/_ViewStart.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Task/Form Request/Views/Shared/_Layout.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-soglh5aa8v
 
-[C:/Users/Administrator/Task/Form Request/Views/Shared/_Loginlayout.cshtml]
+[C:/Users/ir_onita/Documents/GitHub/New/Task/Form Request/Views/Shared/_Loginlayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbmxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-rxe3adxtnb

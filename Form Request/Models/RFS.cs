@@ -17,8 +17,11 @@ namespace MaximaMachineriesInc.Models
         [DisplayName("Reference")]
         public string? Reference { get; set; }
         [DisplayName("ReferenceDate")]
-        public DateTime ReferenceDate { get; set; }  
+        public DateTime? ReferenceDate { get; set; }
+        public string? Section { get; set; }
+        public string? Dept { get; set; }
 
+        public string? Branch { get; set; }
 
 
 
@@ -60,9 +63,9 @@ namespace MaximaMachineriesInc.Models
         [DisplayName("Reference")]
         public string? Reference { get; set; }
         [DisplayName("ReferenceDate")]
-        public DateTime ReferenceDate { get; set; }
+        public DateTime? ReferenceDate { get; set; }
 
-        public DateTime PostDate { get; set; } = DateTime.Now;
+        public DateTime? PostDate { get; set; } = DateTime.Now;
 
     }
    

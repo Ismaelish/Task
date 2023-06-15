@@ -9,7 +9,10 @@ namespace MaximaMachineriesInc
             public static string UserName;
             public static string DispName;
             public static string TblName;
-            public int TranCompNo;
+        public static int TranCompNo;
+        public static string Sectionx;
+        public static string Branchx;
+        public static string Deptx;
 
     }
 }
