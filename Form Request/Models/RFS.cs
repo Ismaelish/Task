@@ -40,6 +40,7 @@ namespace MaximaMachineriesInc.Models
         public string? Section { get; set; }
         public string? LvlCode { get; set; }
     }
+   
     public class ModelMix
     {
         public IEnumerable<Employee> Employee { get; set;}
@@ -68,5 +69,5 @@ namespace MaximaMachineriesInc.Models
         public DateTime? PostDate { get; set; } = DateTime.Now;
 
     }
-   
+
 }

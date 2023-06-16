@@ -1,5 +1,6 @@
 ﻿using MaximaMachineriesInc.Models;
 using Microsoft.EntityFrameworkCore;
+using SideMenuBar.Models;
 
 namespace MaximaMachineriesInc.DAL
 {
@@ -9,7 +10,10 @@ namespace MaximaMachineriesInc.DAL
         {
         }
             public DbSet<RFS> Reimbursement { get; set; }
-        
-    
+            public DbSet<WorkFlow> workFlows { get; set; }
+
+            
+
+
     }
 }

@@ -28,5 +28,19 @@ namespace SideMenuBar.Models
         public string? TblName { get; set; }
 
     }
-    
+    public class Q_SysRoute
+    {
+
+        [Key]
+        public int ID { get; set; }
+        public string? Section { get; set; }
+        public string? Dept { get; set; }
+        public string? Branch { get; set; }
+        public string? App { get; set; }
+        public int? RouteSteps { get; set; }
+        public int? ApproverID { get; set; }
+
+    }
+
+
 }

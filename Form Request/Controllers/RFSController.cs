@@ -5,7 +5,9 @@ using Form_Request.Models;
 using System.Diagnostics;
 using MaximaMachineriesInc;
 using Microsoft.EntityFrameworkCore;
-
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Identity.Client;
+using static System.Collections.Specialized.BitVector32;
 
 namespace MaximaMachineriesInc.Controllers
 {
@@ -14,10 +16,12 @@ namespace MaximaMachineriesInc.Controllers
  public class RFSController : Controller
 {
     private readonly RequestDbContext _dbcontext;
+    private readonly ApplicationDbContext _dbcontextShared;
 
-    public RFSController(RequestDbContext context)
+        public RFSController(RequestDbContext context, ApplicationDbContext contextShared)
     {
         _dbcontext = context;
+        _dbcontextShared = contextShared;
        
     }
         [HttpGet]
@@ -59,6 +63,24 @@ namespace MaximaMachineriesInc.Controllers
 
         }
         //VIEW DETAILS
+        //[HttpGet]
+        //public async Task<IActionResult> Details(int? TranCompNo)
+        //{
+        //    if (TranCompNo == null || _dbcontext.Reimbursement == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    var tranDetailsView = await _dbcontext.Reimbursement
+        //        .FindAsync(TranCompNo);
+
+        //    if (tranDetailsView == null)
+        //    {
+        //        return NotFound();
+        //    }
+        //    return View(tranDetailsView);
+        [HttpGet]
+        [HttpGet]
         public async Task<IActionResult> Details(int? TranCompNo)
         {
             if (TranCompNo == null || _dbcontext.Reimbursement == null)
@@ -66,24 +88,36 @@ namespace MaximaMachineriesInc.Controllers
                 return NotFound();
             }
 
-            var tranDetailsView = await _dbcontext.Reimbursement
-                .FindAsync(TranCompNo);
+            var tranDetailsView = await _dbcontext.Reimbursement.FindAsync(TranCompNo);
+
             if (tranDetailsView == null)
             {
                 return NotFound();
             }
 
+            // Store the values in TempData
+            TempData["Section"] = tranDetailsView.Section;
+            TempData["Branch"] = tranDetailsView.Branch;
+            TempData["Department"] = tranDetailsView.Dept;
+            var routeSteps = 1;
+            var appName = "OTA";
+
+            // Retrieve routeID from another table
+            var approverID = await _dbcontextShared.Q_SysRoute.FirstOrDefaultAsync(r => r.Section == tranDetailsView.Section && r.Branch == tranDetailsView.Branch && r.Dept == tranDetailsView.Dept && r.App == appName && r.RouteSteps == routeSteps);
+
+            if (approverID == null)
+            {
+                return NotFound();
+            }
+
+            //var approverSysName = approverID.ApproverID;
+
+            TempData["ApproverID"] = approverID.ApproverID;
+
+
             return View(tranDetailsView);
         }
-        //GET APPROVER
 
-        public async Task<IActionResult> Approver()
-        {
-            return View();
-        }
-
-
-        //END OF INSERT INTO
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
